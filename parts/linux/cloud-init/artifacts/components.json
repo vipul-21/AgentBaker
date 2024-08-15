@@ -203,6 +203,13 @@
       ]
     },
     {
+      "downloadURL": "mcr.microsoft.com/containernetworking/cilium/dns-proxy:*",
+      "amd64OnlyVersions": [],
+      "multiArchVersions": [
+        "v0.0.1-240723"
+      ]
+    },
+    {
       "downloadURL": "mcr.microsoft.com/oss/cilium/cilium:*",
       "amd64OnlyVersions": [],
       "multiArchVersions": [
