@@ -213,6 +213,20 @@
       ]
     },
     {
+      "downloadURL": "mcr.microsoft.com/containernetworking/cilium/cilium:*",
+      "amd64OnlyVersions": [],
+      "multiArchVersions": [
+        "v1.14.12-240716"
+      ]
+    },
+    {
+      "downloadURL": "mcr.microsoft.com/containernetworking/cilium/operator-generic:*",
+      "amd64OnlyVersions": [],
+      "multiArchVersions": [
+        "v1.14.12-240716"
+      ]
+    },
+    {
       "downloadURL": "mcr.microsoft.com/oss/kubernetes/azure-cloud-node-manager:*",
       "amd64OnlyVersions": [],
       "multiArchVersions": [
